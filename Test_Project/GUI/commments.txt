@@ -1,0 +1,19 @@
+Addition,mos,3ash
+Addition,mos,fash5
+Java,mostafa,Hope enjoy the game
+multiplication,mostafa,Hope enjoy this game
+ah,mostafa,
+ah,mostafa,
+ah,mostafa,
+ah,mostafa,
+ah,mostafa,
+ah,mostafa,
+ah,mostafa,
+ah,mostafa,
+ah,mostafa,
+ah,mostafa,all
+null,,d
+null,,ffs
+null,null,Nice Game
+null,null, 
+null,null,Bad Game

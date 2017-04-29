@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head th:fragment="site-head">
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="../public/css/styles.css"
+          th:href="@{/css/styles.css}" />
+    <link rel="icon" href="../public/img/favicon.ico"
+          th:href="@{/img/favicon.ico}" />
+    <meta th:include="this :: head" th:remove="tag"/>
+</head>
+
+
+
+<body>
+
+
+<footer th:fragment="site-footer">
+    &copy; Inception, 2017
+</footer>
+</body>
+
+</html>
